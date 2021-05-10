@@ -1,0 +1,25 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "name": "Visma e-conomic a/s"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "clientId": 1,
+            "name": "Live coding interview 1"
+        },
+        {
+            "id": 2,
+            "clientId": 1,
+            "name": "Live coding interview 2"
+        },
+        {
+            "id": 3,
+            "clientId": 1,
+            "name": "Live coding interview 3"
+        }
+    ]
+}
